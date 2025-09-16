@@ -1,0 +1,4 @@
+"_id,name,email,password,street,city,zip,createdAt"
+"1,Alice Johnson,alice@example.com,alice123,123 Main St,New York,10001,2024-01-10"
+"2,Bob Smith,bob@example.com,bob456,456 Oak Ave,Los Angeles,90001,2024-02-15"
+"3,Charlie Brown,charlie@example.com,charlie789,789 Pine Rd,Chicago,60601,2024-03-12"

@@ -1,0 +1,4 @@
+"_id,userId,items,totalAmount,status,createdAt"
+"201,1,""[{""""productId"""":101,""""qty"""":1,""""price"""":1200},{""""productId"""":102,""""qty"""":2,""""price"""":25}]"",1250,shipped,2024-06-10"
+"202,2,""[{""""productId"""":105,""""qty"""":1,""""price"""":900},{""""productId"""":106,""""qty"""":1,""""price"""":200}]"",1100,pending,2024-06-15"
+"203,3,""[{""""productId"""":103,""""qty"""":1,""""price"""":150},{""""productId"""":104,""""qty"""":4,""""price"""":10}]"",190,delivered,2024-06-18"

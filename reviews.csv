@@ -1,0 +1,4 @@
+"_id,productId,userId,rating,comment,createdAt"
+"301,101,1,5,Excellent laptop,2024-06-12"
+"302,102,2,4,Good mouse but battery drains fast,2024-06-16"
+"303,105,3,5,Amazing smartphone,2024-06-20"
