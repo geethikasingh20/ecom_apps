@@ -1,0 +1,23 @@
+Method + URL                                                         
+Verb   + Noun
+
+# Operation: find All Products 
+GET     http://localhost:8080/products        
+
+# Operation: create Product                      
+POST    http://localhost:8080/products                               
+REQUEST BODY: Select raw-> JSON
+{ "name": "Laptop Pro 17", "description": "High performance laptop", "category": "Electronics", 
+"price": 1200, "stock": 10, "tags": "laptop, tech,computer" }
+
+# Operation: find Product By Id=68b15920505c81a9a05552e9  
+GET     http://localhost:8080/products/68b15920505c81a9a05552e9 
+
+# Operation: update Product By Id=68b15920505c81a9a05552e9    
+PUT     http://localhost:8080/products/68b15920505c81a9a05552e9     
+REQUEST BODY: 
+{ "name": "Laptop Pro 17", "description": "High performance laptop", "category": "Electronics", 
+"price": 1200, "stock": 10, "tags": "laptop, tech,computer" }
+
+# Operation:  delete Product By Id=68b15920505c81a9a05552e9
+DELETE  http://localhost:8080/products/68b15920505c81a9a05552e9    
